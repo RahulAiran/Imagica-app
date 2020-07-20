@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Imagica</string>
+    <string name="button1_text"> Play </string>
+    <string name="button2_text"> Instructions </string>
+    <string name="button3_text"> Exit </string>
+    <string name="button_level1"> Level 1 </string>
+    <string name="button_level2"> Level 2 </string>
+    <string name="button_level3"> Level 3 </string>
+    <string name="button_level4"> Level 4 </string>
+    <string name="button_level5"> Level 5 </string>
+    <string name="button_level6"> Level 6 </string>
+
+    <string name="instruction">1. The aim of the player is to find all the differences in the two given pictures.\n\n2. There are total of 6 levels.\n\n3. As the player finds all the differences in each level, he is promoted to the next level.\n\n4. A player can find difference by tapping on the extra object in any of the two images.</string>
+</resources>

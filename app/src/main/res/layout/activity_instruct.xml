@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="#FFFFFF"
+    android:layout_height="match_parent"
+    tools:context=".InstructActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#FF0000"
+        android:text="@string/button2_text"
+        android:textSize="50dp"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/instruction_text"
+        android:layout_width="match_parent"
+        android:textColor="	#FF0000"
+        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content"
+        android:textSize="15dp"
+        android:scrollbars="vertical"
+        />
+</LinearLayout>
